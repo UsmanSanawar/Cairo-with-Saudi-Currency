@@ -76,3 +76,7 @@ Add the following in print formats:
 </style>
 
 Use class = "currency" for Amounts, Taxes etc.
+
+
+To use ttf via cdn as raw, use the link: https://cdn.jsdelivr.net/gh/UsmanSanawar/Cairo-with-Saudi-Currency@main/Cairo-Regular-Saudi.ttf
+
